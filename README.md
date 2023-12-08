@@ -22,33 +22,41 @@ project created by :
 
 Clarify the purpose of the website by specifying the reason for its creation.
 
+
 **_Conduct Research:_**
 
 Perform a study to identify potential users and analyze other task management websites to determine areas for improvement.
+
 
 **_Choose a Name:_**
 
 Opt for a domain name that is easy to remember and aligns with the brand's identity.
 
+
 **_Design the Site:_**
 
 Develop wireframes and mock-ups, creating a visual theme that harmonizes with the brand image and the essence of the project.
+
 
 **_Develop It:_**
 
 Implement necessary technologies, such as HTML, CSS, Java, while ensuring compatibility with various devices.
 
+
 **_Test:_**
 
 Evaluate the functionality, usability, and responsiveness of the site, conducting SEO tests and identifying potential vulnerabilities.
+
 
 **_Launch the Site:_**
 
 Set up hosting and the domain, ensuring the coherence of all elements before the official site launch.
 
+
 **_Marketing:_**
 
 Deploy marketing strategies, utilize social media, word of mouth, and other promotional means.
+
 
 **_Maintenance and Updates:_**
 
