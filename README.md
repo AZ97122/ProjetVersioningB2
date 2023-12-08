@@ -2,13 +2,17 @@
 
 with this wonderful to do list you'll be able to remember everything you had to do today, and even keep track of what's done and what you have to do !
 
-you can add as many tasks as you want, mark them as done, and delete them !
+you can add as many tasks as you want, mark them as done, and delete them ! Come back in a while, we plan to add more features and improve our website, give us some feedback so we know what y'all think about the project !
+
 
 project created by :
   AZ97122 alias Timuran
   KoriiiS alias Erwan
   Mahelice31 alias Maëlys
   asmohel alias Nicolas
+
+
+
 
   Bonus, a roadmap about how to create a project :
 
