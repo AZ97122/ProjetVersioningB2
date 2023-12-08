@@ -16,7 +16,19 @@
       <input type="text" id="taskInput" class="text-white" placeholder="Add a new task...">
       <button class="btn btn-primary" onclick="addTask()">Add Task</button>
       <hr>
-
+      <h2>Tasks List</h2>
+      <ul id="taskList"></ul>
+      <li id="taskItemTemplate" style="display: none;">
+        <div class="row">
+          <div class="col">
+            <span class="task-text text-white"></span>
+          </div>
+          <div class="col">
+            <button class="mark-done-button btn btn-success" onclick="markTaskDone(this)">Mark Done</button>
+            <button class="remove-button btn btn-danger">Remove</button>
+          </div>
+        </div>
+      </li>
     </div>
   </div>
   <script src="script.js"></script>
