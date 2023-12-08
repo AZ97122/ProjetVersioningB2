@@ -53,12 +53,10 @@ tasks.forEach((task, index) => {
     // Add strikethrough and change the style of the button when the task is done
     if (task.done) {
         taskTextSpan.classList.add("text-decoration-line-through");
-        listItem.classList.add("bg-success"); 
         markDoneButton.classList.remove("btn-success");
         markDoneButton.classList.add("btn-primary"); 
     // When clicking "undo" revert the previous style of the task and the button
     } else {
-        listItem.classList.remove("bg-success");
         markDoneButton.classList.remove("btn-primary");
         markDoneButton.classList.add("btn-success"); 
     }
