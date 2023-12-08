@@ -23,3 +23,71 @@ h2 {
 #todo-container {
     margin-top: 20px;
 }
+
+ol, ul {
+    list-style-type: none;
+    padding-left: 0rem;
+    padding-inline-start: 0px;
+    padding-left: 0rem;
+    margin-block-start: 0em;
+}
+
+li {
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+button {
+    margin-top: 10px;
+    border-radius: 100px;
+}
+
+.mark-done-button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.mark-done-button:hover {
+    background-color: #45a049;
+}
+
+.completed-task .task-text {
+    text-decoration: line-through;
+}
+
+.completed-task .mark-done-button:hover {
+    background-color: #e74c3c; 
+}
+
+.texte {
+    position: relative;
+    margin: 30px 0;
+}
+
+.texte input {
+    width: 100%;
+    padding: 0 5px;
+    height: 40px;
+    font-size: 16px;
+    border: none;
+    background: none;
+    outline: none;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.texte label {
+    position: absolute;
+    top: 50%;
+    left: 5px;
+    color: #adadad;
+    font-size: 16px;
+    transform: translateY(-50%);
+    transition: .5s;
+    pointer-events: none;
+}
+
