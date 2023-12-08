@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: white;
+    padding: 20px;
+}
+
+h2 {
+    padding: 20px; 
+}
+
+
+#app {
+    max-width: 1000px;
+    margin: 70px auto;
+    background-color: #101010;
+    border: white solid 1px;
+    border-radius: 10px;
+}
+
+#todo-container {
+    margin-top: 20px;
+}
